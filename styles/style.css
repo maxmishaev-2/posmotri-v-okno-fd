@@ -214,14 +214,10 @@ input[type="checkbox"]:focus-visible {
   margin-bottom: 26px;
 }
 
-/* .content__details {
-  width: 100%;
-  height: 100%;
-} */
-
 .content__list-container {
   /* display: flex;
   gap: 30px; */
+  position: relative;
   width: 399px;
   height: 298px;
   overflow-y: scroll;
