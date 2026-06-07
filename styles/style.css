@@ -27,7 +27,7 @@ ol {
   list-style: none;
 }
 
-.page { 
+.page {
   display: flex;
   justify-content: center;
   inline-size: 1200px;
