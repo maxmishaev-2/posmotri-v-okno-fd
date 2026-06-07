@@ -1,2 +1,1 @@
-## Проект "Посмотри в окно"
-Изменён файл style.css
+https://github.com/maxmishaev-2/posmotri-v-okno-fd
