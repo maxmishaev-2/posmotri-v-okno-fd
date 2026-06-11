@@ -260,7 +260,7 @@ ol {
   cursor: pointer;
 }
 
-.content__card-link:hover .content__video-card-description{
+.content__card-link:hover .content__video-card-description {
   text-decoration: underline;
   text-decoration-color: #fff;
   text-underline-offset: 1px;
@@ -310,7 +310,7 @@ ol {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
   line-clamp: 3;
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 .content__video-card-thumbnail {
